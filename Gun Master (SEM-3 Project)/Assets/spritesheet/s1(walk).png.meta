@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: a744d71148bf6ff4e8cc0462366b12f3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1_police_Walk_000
+    21300002: 1_police_Walk_001
+    21300004: 1_police_Walk_002
+    21300006: 1_police_Walk_003
+    21300008: 1_police_Walk_004
+    21300010: 1_police_Walk_005
+    21300012: 1_police_Walk_006
+    21300014: 1_police_Walk_007
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1_police_Walk_000
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 844
+        width: 634
+        height: 1203
+      alignment: 9
+      pivot: {x: 0.5670347, y: 0.50955945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb5af93e5945b14cb445d332446b818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_police_Walk_001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 830
+        width: 615
+        height: 1217
+      alignment: 9
+      pivot: {x: 0.5373984, y: 0.5094495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5d4128a66277b45a7c7f570d82d5d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_police_Walk_002
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 839
+        width: 572
+        height: 1208
+      alignment: 9
+      pivot: {x: 0.4938811, y: 0.5024834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b5528e44389bd4ba1a5dd908d24c5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_police_Walk_003
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 834
+        width: 499
+        height: 1213
+      alignment: 9
+      pivot: {x: 0.40581164, y: 0.5045342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b693dd1093249842941a367949086e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_police_Walk_004
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 830
+        width: 569
+        height: 1217
+      alignment: 9
+      pivot: {x: 0.39455184, y: 0.50780606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01aa994ccea6454e97875523ec1bba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_police_Walk_005
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 834
+        width: 507
+        height: 1213
+      alignment: 9
+      pivot: {x: 0.4151874, y: 0.50948066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc9af28116d66e40bf218a9e505422a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_police_Walk_006
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 855
+        width: 496
+        height: 1192
+      alignment: 9
+      pivot: {x: 0.41633064, y: 0.5016779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbae0c5f6968bc24a9dc155634ddab1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_police_Walk_007
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 848
+        width: 572
+        height: 1199
+      alignment: 9
+      pivot: {x: 0.50262237, y: 0.50708926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0127d6c57034e74a878db1b48a40ef9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

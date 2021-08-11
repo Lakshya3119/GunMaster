@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 34311f1b030cd87479080776f0aba9c9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1_terrorist_1_Hurt_000
+    21300002: 1_terrorist_1_Hurt_001
+    21300004: 1_terrorist_1_Hurt_002
+    21300006: 1_terrorist_1_Hurt_003
+    21300008: 1_terrorist_1_Hurt_004
+    21300010: 1_terrorist_1_Hurt_005
+    21300012: 1_terrorist_1_Hurt_006
+    21300014: 1_terrorist_1_Hurt_007
+    21300016: 1_terrorist_1_Hurt_008
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1_terrorist_1_Hurt_000
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1857
+        width: 610
+        height: 1296
+      alignment: 9
+      pivot: {x: 0.5704918, y: 0.47608024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361a0ff4ac3372d4e9db929b9ba72118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_terrorist_1_Hurt_001
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 623
+        width: 599
+        height: 1232
+      alignment: 9
+      pivot: {x: 0.5709516, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066e6ee29c827ae40b4bd1aa2e14b747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_terrorist_1_Hurt_002
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 737
+        width: 649
+        height: 1161
+      alignment: 9
+      pivot: {x: 0.52696455, y: 0.5314384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fcdabaf1cdd0e4aa3994a1f5f0b291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_terrorist_1_Hurt_003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1772
+        width: 709
+        height: 1102
+      alignment: 9
+      pivot: {x: 0.4964739, y: 0.5589837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256962461bf34d64eb98a5655d980338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_terrorist_1_Hurt_004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 577
+        width: 618
+        height: 1193
+      alignment: 9
+      pivot: {x: 0.56634307, y: 0.51299244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1e30a2552b0cb44a6dc6c7f1b1e320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_terrorist_1_Hurt_005
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1900
+        width: 605
+        height: 1253
+      alignment: 9
+      pivot: {x: 0.57190084, y: 0.48762968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5084c6722c0355042b78569ea643509e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_terrorist_1_Hurt_006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2876
+        width: 737
+        height: 1219
+      alignment: 9
+      pivot: {x: 0.6105834, y: 0.5045119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcacb563b217f94418e108dbbb50d24d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_terrorist_1_Hurt_007
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 3155
+        width: 910
+        height: 940
+      alignment: 9
+      pivot: {x: 0.42637363, y: 0.65425533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a67fdf5dcbe1974b92b229c789d2b05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_terrorist_1_Hurt_008
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 114
+        width: 1188
+        height: 507
+      alignment: 9
+      pivot: {x: 0.51094276, y: 1.2228796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45310cee8ddfa844a8391d4ebc622bc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

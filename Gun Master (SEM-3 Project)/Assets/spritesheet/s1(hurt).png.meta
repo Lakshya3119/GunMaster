@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 09f66ad90a8159d4491dae060a9b174a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1_police_Hurt_000
+    21300002: 1_police_Hurt_001
+    21300004: 1_police_Hurt_002
+    21300006: 1_police_Hurt_003
+    21300008: 1_police_Hurt_004
+    21300010: 1_police_Hurt_005
+    21300012: 1_police_Hurt_006
+    21300014: 1_police_Hurt_007
+    21300016: 1_police_Hurt_008
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1_police_Hurt_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 823
+        width: 493
+        height: 1224
+      alignment: 9
+      pivot: {x: 0.5912779, y: 0.45629084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40fe70a3a685d842ae8c4e12237b775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_police_Hurt_001
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 879
+        width: 535
+        height: 1168
+      alignment: 9
+      pivot: {x: 0.4850467, y: 0.48244864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dbd1d7eb665e64194cd5a0df5667b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_police_Hurt_002
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 948
+        width: 641
+        height: 1099
+      alignment: 9
+      pivot: {x: 0.47191888, y: 0.51091903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a0ca55a758b1c46aed0c1fdbd04075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_police_Hurt_003
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 1007
+        width: 724
+        height: 1040
+      alignment: 9
+      pivot: {x: 0.45787293, y: 0.53701925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9b583df68abef4ca6715625cbccbf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_police_Hurt_004
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 914
+        width: 551
+        height: 1133
+      alignment: 9
+      pivot: {x: 0.5108893, y: 0.49117386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1a70b6ef910a044a2884737fc458c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_police_Hurt_005
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 837
+        width: 516
+        height: 1210
+      alignment: 9
+      pivot: {x: 0.6618217, y: 0.46404958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332ca17e32160ce41b88f8ebfd92a1c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_police_Hurt_006
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 900
+        width: 697
+        height: 1147
+      alignment: 9
+      pivot: {x: 0.6090387, y: 0.47122929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a918c85b96b613c44ab32367508d6500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_police_Hurt_007
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2
+        width: 921
+        height: 875
+      alignment: 9
+      pivot: {x: 0.3946797, y: 0.6234286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ee498a4b819df41806321faaf574f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_police_Hurt_008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 328
+        width: 1184
+        height: 493
+      alignment: 9
+      pivot: {x: 0.5021115, y: 1.3052739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c821725625e55429f2aefdefa0175b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

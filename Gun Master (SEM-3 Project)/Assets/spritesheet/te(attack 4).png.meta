@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: c88234c40a848174b87d56efebebd15a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1_terrorist_1_Attack4_000
+    21300002: 1_terrorist_1_Attack4_001
+    21300004: 1_terrorist_1_Attack4_002
+    21300006: 1_terrorist_1_Attack4_003
+    21300008: 1_terrorist_1_Attack4_004
+    21300010: 1_terrorist_1_Attack4_005
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1_terrorist_1_Attack4_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1310
+        width: 1092
+        height: 737
+      alignment: 9
+      pivot: {x: 0.5943223, y: 0.5081411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f73a2c479230f48839b9ca99f4685c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_terrorist_1_Attack4_001
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1317
+        width: 1086
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5976059, y: 0.5130137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8ff151a6386c74a9e6b036b39f9737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_terrorist_1_Attack4_002
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 598
+        width: 1200
+        height: 723
+      alignment: 9
+      pivot: {x: 0.54083335, y: 0.52213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d125e1b554281459dc824e00d69aba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_terrorist_1_Attack4_003
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 1323
+        width: 1280
+        height: 724
+      alignment: 9
+      pivot: {x: 0.50625, y: 0.5186464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46f11b023987f04195f548168ff788a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_terrorist_1_Attack4_004
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 586
+        width: 1287
+        height: 729
+      alignment: 9
+      pivot: {x: 0.50427353, y: 0.5137174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02150a80d30e1bc4c82bb779867f4852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_terrorist_1_Attack4_005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 577
+        width: 1298
+        height: 731
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5123119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d250c4d8beb75da469e3ac96987d99ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
